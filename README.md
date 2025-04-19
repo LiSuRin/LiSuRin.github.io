@@ -10,7 +10,7 @@
 - Git / GitHub
 
 ## 🌐 Мой сайт
-[annakras.github.io](https://annakras.github.io)
+[LiSuRin.github.io](https://LiSuRin.github.io)
 
 ## 📬 Контакты
 - Email: lisurin111@gmail.com
